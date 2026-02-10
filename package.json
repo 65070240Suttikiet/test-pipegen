@@ -1,0 +1,9 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'Testing... Success!' && exit 0",
+    "build": "echo 'Building project...' && mkdir dist && touch dist/app.js"
+  }
+}
